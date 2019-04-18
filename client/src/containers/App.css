@@ -1,0 +1,18 @@
+.App {
+  margin: auto;
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .App {
+    margin-left: 10vw;
+    margin-right: 10vw;
+  }
+}
+
+@media (min-width: 1600px) {
+  .App {
+    margin-left: 15vw;
+    margin-right: 15vw;
+  }
+}
